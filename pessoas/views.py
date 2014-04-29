@@ -1,7 +1,7 @@
 # This Python file uses the following encoding: utf-8
 # ANOTAÇÃO PARA USAR CARACTERES ESPECIAIS AQUI. (MESMO PARA ANOTAÇÕES.)
 """ 
-@edsonlb
+TESTE
 https://www.facebook.com/groups/pythonmania/
 """
 
